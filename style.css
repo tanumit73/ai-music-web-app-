@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+}
+.heading {
+    font-size: 23xp;
+    width: 100%;
+    margin: 0px;
+}
+.note {
+    font-size: 15px;
+    color: black;
+}
+.play_button {
+    font-size: 35px;
+    border-radius: 15px;
+}
+canvas {
+    border-radius: 20px;
+    border: 10px solid white;
+}
